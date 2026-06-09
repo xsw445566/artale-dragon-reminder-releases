@@ -1,0 +1,42 @@
+{
+  "app": "Artale Dragon Reminder",
+  "platform": "windows",
+  "version": "1.3.4",
+  "buildDate": "2026-06-10",
+  "commit": "642ffab",
+  "downloadUrl": "https://github.com/xsw445566/artale-dragon-reminder-releases/releases/download/v1.3.4/ArtaleDragonReminder_v1.3.4_20260610.zip",
+  "releaseNotes": "v1.3.4 admin layout, team sync, mandatory updates, and timer hotkeys",
+  "relayUrl": "https://artale-dragon-reminder-relay.onrender.com",
+  "github_release_url": "https://github.com/xsw445566/artale-dragon-reminder-releases/releases/download/v1.3.4/ArtaleDragonReminder_v1.3.4_20260610.zip",
+  "mirrors": [
+    {
+      "name": "github_release_public",
+      "url": "https://github.com/xsw445566/artale-dragon-reminder-releases/releases/download/v1.3.4/ArtaleDragonReminder_v1.3.4_20260610.zip",
+      "priority": 1
+    }
+  ],
+  "latest_version": "1.3.4",
+  "minimum_supported_version": "1.3.0",
+  "force_update": true,
+  "download_url": "https://github.com/xsw445566/artale-dragon-reminder-releases/releases/download/v1.3.4/ArtaleDragonReminder_v1.3.4_20260610.zip",
+  "sha256": "e61568f76a56ed842b394170e7ee4cd89b7eac383c76c88fac6cd094498509bd",
+  "file_name": "ArtaleDragonReminder_v1.3.4_20260610.zip",
+  "file_size": 104084909,
+  "release_notes": "v1.3.4 admin layout, team sync, mandatory updates, and timer hotkeys",
+  "published_at": "2026-06-09T17:40:30.242271+00:00",
+  "build_date": "2026-06-10",
+  "render_relay_url": "https://artale-dragon-reminder-relay.onrender.com",
+  "firebase_hosting_url": "https://artale-dragon-reminder.web.app",
+  "source_repo_private": true,
+  "release_repo": "xsw445566/artale-dragon-reminder-releases",
+  "required": {
+    "license_check": true,
+    "relay_compatible": true,
+    "preserve_files": [
+      "config.json",
+      "license_settings.json",
+      "logs"
+    ],
+    "updater": "ArtaleUpdater.exe"
+  }
+}
